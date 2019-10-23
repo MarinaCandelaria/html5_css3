@@ -1,0 +1,39 @@
+
+body 
+{
+    background: turquoise;
+    margin-left: 150px;
+    margin-right: 200px;
+}
+
+header
+{
+    margin-top: 70px;
+}
+
+h1 
+{
+    color: #00a86b;
+    font-family: sans-serif;
+}
+    
+h2 
+{
+    font-family: sans-serif;
+}
+
+p
+{
+ font-size: 18px;
+}
+
+footer
+{
+    margin-bottom: 30px;
+}
+
+.img_padrao
+{
+    margin-bottom: 20px;
+    width: 400px;
+}
